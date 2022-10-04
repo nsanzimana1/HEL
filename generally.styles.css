@@ -1,0 +1,29 @@
+*{
+background-color: rgb(19, 173, 88);
+background-image: url(Bugm.jpg);
+
+
+
+}
+
+#h1styles{
+    color: rgb(0, 162, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: dashed;
+}
+
+.pstyles{
+    font-weight: 5000;
+
+}
+h1{
+    color: rgb(211, 16, 16);
+
+background-color: bisque;
+
+}
+
+
+    
+}
